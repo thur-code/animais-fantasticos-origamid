@@ -14,7 +14,7 @@ O objetivo do “Animais Fantásticos” é implementar uma aplicação interati
 ## 🛠 Tecnologias utilizadas  
 - **HTML5** (estrutura semântica)  
 - **CSS3** (layout, responsividade)  
-- **JavaScript (ES6+)** — uso de `let/const`, classes, arrow functions, destructuring, rest/spread, módulos, async/await, Promises, Fetch. :contentReference[oaicite:4]{index=4}  
+- **JavaScript (ES6+)** — uso de `let/const`, classes, arrow functions, destructuring, rest/spread, módulos, async/await, Promises, Fetch.  
 - **Manipulação do DOM** — navegação por abas, scroll suave, animações numéricas, menu mobile, validação de CPF etc. (Aulas do curso)  
 - **Automação e ferramentas** — Node.js, NPM, Webpack, Babel, ESLint, Git. :contentReference[oaicite:5]{index=5}  
 - **Git & GitHub** — controle de versão e histórico de commits no desenvolvimento do projeto.
